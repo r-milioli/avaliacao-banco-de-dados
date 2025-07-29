@@ -201,13 +201,4 @@ do sistema no futuro.
 
 ---
 
-## 📞 CONTATO
-
-**Projeto**: Sistema de Gestão - Fristorm Informática  
-**Desenvolvido para**: Avaliação de Banco de Dados  
-**Data**: 2025  
-**Status**: Concluído ✅
-
----
-
 *Relatório Final - Fristorm Informática - Sistema de Gestão de Estoque e Vendas*
