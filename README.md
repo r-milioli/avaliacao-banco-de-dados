@@ -213,16 +213,6 @@ ENTREGA_FINAL/
 - Todos os requisitos atendidos
 - 40 pontos em consultas SQL
 - Entrega no formato solicitado
-
----
-
-## 📞 **SUPORTE E CONTATO**
-
-Para dúvidas sobre o projeto:
-- Consulte a documentação em cada pasta
-- Verifique os arquivos de exemplo
-- Execute os scripts na ordem correta
-
 ---
 
 ## 📝 **NOTAS IMPORTANTES**
